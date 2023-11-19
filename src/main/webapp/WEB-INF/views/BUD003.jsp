@@ -13,12 +13,9 @@
         <h4 style="color: green;" class="col-md-6 offset-md-2 mb-2 mt-4">${success }</h4>
         <h4 style="color: red" class="col-md-6 offset-md-2 mb-2 mt-2">${error }</h4>
         <div class="row mb-4">
-            <!-- <div class="col-md-2"></div>
-            <label for="id" class="col-md-2 col-form-label"> ID</label>
-            <div class="col-md-4">
-                <input type="text" class="form-control" id="id" name="id" placeholder="Enter Id">
-            </div> -->
+           
         </div>
+
 
         <div class="row mb-4">
             <div class="col-md-2"></div>
